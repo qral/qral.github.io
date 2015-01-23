@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on my new hugo site </title>
+      <title>Posts on BLOGo </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/post/index.xml/</link>
+    <link>http://qral.github.io/post/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://qral.github.io/post/first/</link>
       <pubDate>Fri, 23 Jan 2015 03:35:20 CET</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://qral.github.io/post/first/</guid>
       <description>
 
 &lt;p&gt;It&amp;rsquo;s very easy to make some words &lt;strong&gt;bold&lt;/strong&gt; and other words &lt;em&gt;italic&lt;/em&gt; with Markdown. You can even &lt;a href=&#34;http://google.com&#34;&gt;link to Google!&lt;/a&gt;&lt;/p&gt;
